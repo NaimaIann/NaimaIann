@@ -1,4 +1,4 @@
-- 👋🏼 Hi, I’m @NaimaIann 👩🏻
+- 👋🏼 Hi, I’m Coding_Nia 👩🏻
 - 🤌🏼 Interested in learning all the good stuff!
 - 🌱 Currently learning Full-stack Development @Wincacademy
 - 📬 How to reach me: naima.ian@outlook.com
